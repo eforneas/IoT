@@ -1,0 +1,10 @@
+IoT_Nano_ESP8266:
+
+1 x Arduino Nano
+1 x 2AAA baterry enclosure
+1 x DHT-11 or DHT-22 sensor
+1 x ESP8266-01 AI WiFi module or similar
+1 x 220 ohm resistor
+1 x 10k ohm. resistor
+AAA bateries
+Dupont cables assortment
